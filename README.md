@@ -1,3 +1,4 @@
-# ADSA_UofA
+# School Addition and Karatsuba Multiplication in C++
 
-Assingments for the Algorthms and Data Structure Analysis of the University of Adelaide
+
+Assingment 1: Algorthms and Data Structure Analysis - University of Adelaide
